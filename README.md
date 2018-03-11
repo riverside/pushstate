@@ -6,4 +6,4 @@ Read the full blog post here: https://zinoui.com/blog/single-page-apps-html5-pus
 --------------
 Everything in this repo is MIT License unless otherwise specified.
 
-[MIT](/riverside/pushstate/LICENSE.md) &copy; Dimitar Ivanov
+[MIT](https://github.com/riverside/pushstate/LICENSE.md) &copy; Dimitar Ivanov
