@@ -1,0 +1,4 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteRule ^(africa|asia|europe|north-america|oceania|south-america)$ $1.php [L,NC]
+</IfModule>
